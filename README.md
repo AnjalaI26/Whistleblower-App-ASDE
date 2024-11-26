@@ -1,10 +1,11 @@
 # Group A-20: Campus Confide
 
-Some of the main features of Campus Confide include having 4 distinct user listed 
-below that are able to efficiently and effectively navigate between pages, helpful 
-features and feedback for users and admin, a search bar that allows users and admin 
-to search for reports, time stamps that show when reports were submitted, and an 
-appealing user interface, among many other features that can be explored on our 
+This is a web-application I created within a group of four other members through my 
+Advanced Software Engineering Class. Some of the main features of Campus Confide include 
+having 4 distinct user listed below that are able to efficiently and effectively navigate 
+between pages, helpful features and feedback for users and admin, a search bar that allows 
+users and admin to search for reports, time stamps that show when reports were submitted, 
+and an appealing user interface, among many other features that can be explored on our 
 website.
 
 ## Users
